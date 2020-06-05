@@ -22,7 +22,7 @@ body{
     justify-content: center;
     flex-wrap: nowrap;
     padding: 200px;
-    left: 0;
+    left: -50px;
     position: relative;
 }
 
