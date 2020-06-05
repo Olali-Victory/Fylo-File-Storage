@@ -227,20 +227,21 @@ body{
     }
 
     .speech-bubble{
-        top: inherit;
-        left: 500px;
+        top: 500px;
+        left: 250px;
         bottom: 100px;
         right: 250px;
         margin-top: 50px;
         border-bottom-right-radius: 5px;
         justify-content: center;
     }
-    .Fylo, .bar{
+    .bar{
         width: 100%; 
         display: flex;
-        left: -50px;
         top: 0;
+        left: -50px;
         justify-content: center;
         align-items: center;
     }
+    
 }
