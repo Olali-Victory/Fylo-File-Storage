@@ -212,6 +212,7 @@ body{
     background-repeat: no-repeat;
     height: 100vh;
     background-color: hsl(229, 57%, 11%);
+    margin: 0;
     position: relative
 }
 
