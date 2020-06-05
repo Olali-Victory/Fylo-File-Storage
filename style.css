@@ -234,21 +234,21 @@ body{
     border-radius: 10px;
     border-top-right-radius: 100px;
     border-left: 50px solid hsl(228, 56%, 26%);
-    width: 22%;
+    width: 250px;
     height: 200px;
     display: flex;
     flex-flow: column wrap;
     justify-content: center;
     margin-bottom: 20px;   
     left: 50%;
-    top: 100px;
+    top: ;
 }
 
 
 
 .bar{
     background-color: hsl(228, 56%, 26%);
-    width: 25%;
+    width: 250px;
     height: 150px;
     border: 2px solid hsl(228, 56%, 26%);
     border-radius: 10px;
