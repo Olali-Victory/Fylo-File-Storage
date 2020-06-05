@@ -242,7 +242,6 @@ body{
     margin-bottom: 20px;   
     left: 50%;
     top: 100px;
-    position: absolute
 }
 
 
@@ -259,7 +258,6 @@ body{
     flex-flow: column wrap;
     align-items: center;
     justify-content: center;
-    position: absolute;
     left: 25px
 }
 
