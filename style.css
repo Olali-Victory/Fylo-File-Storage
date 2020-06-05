@@ -221,6 +221,7 @@ body{
     }
 
     .main{
+        box-orient: vertical;
         display: flex;
         flex-direction: column;
         width: 80%;
