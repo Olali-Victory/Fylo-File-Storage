@@ -240,7 +240,8 @@ body{
     flex-flow: column wrap;
     justify-content: center;
     margin-bottom: 20px;   
-    left: 25px;
+    left: 50%;
+    top: 100px;
     position: absolute
 }
 
