@@ -250,6 +250,7 @@ body{
     justify-content: center;
     margin-bottom: 20px;   
     left: 500px;
+    position: absolute
 }
 
 
@@ -266,6 +267,7 @@ body{
     flex-flow: column wrap;
     align-items: center;
     justify-content: center;
+    position: absolute
 }
 
 .logo{
