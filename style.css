@@ -222,7 +222,8 @@ body{
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    margin-top: 20vh
+    margin-top: 20vh;
+    position: relative
 }
 
 .opt{
