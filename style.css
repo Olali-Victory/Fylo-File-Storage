@@ -196,16 +196,6 @@ body{
 
 
 @media only screen and (max-width: 750px){
-    *{
-    margin: 0px;
-    padding: 0px;
-    box-sizing: content-box;
-}
-
-html{
-    height: 100%;
-}
-
 body{
     background-image: url("bg-mobile.svg");
     background-position: center;
@@ -247,11 +237,10 @@ body{
     width: 22%;
     height: 200px;
     display: flex;
-    flex-wrap: wrap;
     flex-flow: column wrap;
     justify-content: center;
     margin-bottom: 20px;   
-    left: 500px;
+    left: 25px;
     position: absolute
 }
 
@@ -269,7 +258,8 @@ body{
     flex-flow: column wrap;
     align-items: center;
     justify-content: center;
-    position: absolute
+    position: absolute;
+    left: 25px
 }
 
 .logo{
