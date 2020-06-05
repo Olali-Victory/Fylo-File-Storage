@@ -177,3 +177,52 @@ body{
     color: hsl(229, 7%, 55%);
     
 }
+
+@media only screen and (max-width: 750px){
+    
+    
+    
+    body{
+        background-image: url(./images/bg-mobile.svg);
+        background-position: center;
+        background-size: cover;
+        height: 100vh;
+
+    }
+
+    .speech-bubble{
+        bottom: -30px;
+        right: unset;
+        top: unset;
+        left: 58%;
+        margin-left: -80px;
+    }
+    
+    .triangle{
+        display: none;
+    }
+
+    .main{
+        flex-direction: column;
+        width: 80%;
+        margin-bottom: 0;
+    }
+
+    .speech-bubble{
+        top: inherit;
+        left: 500px;
+        bottom: 100px;
+        right: 250px;
+        margin-top: 50px;
+        border-bottom-right-radius: 5px;
+        justify-content: center;
+    }
+    .Fylo, .bar{
+        width: 100%; 
+        display: flex;
+        left: 0;
+        top: 0;
+        justify-content: center;
+        align-items: center;
+    }
+}
