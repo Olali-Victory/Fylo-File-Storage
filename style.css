@@ -213,7 +213,7 @@ body{
         top: -20px;
         left: 58%;
         margin-left: -80px;
-        position: absolute;
+        position: absolute
     }
     
     .triangle{
@@ -221,27 +221,12 @@ body{
     }
 
     .main{
+        display: flex;
         flex-direction: column;
         width: 80%;
         margin-bottom: 0;
     }
 
-    .speech-bubble{
-        top: 500px;
-        left: 250px;
-        bottom: 100px;
-        right: 250px;
-        margin-top: 50px;
-        border-bottom-right-radius: 5px;
-        justify-content: center;
-    }
-    .bar{
-        width: 100%; 
-        display: flex;
-        top: 0;
-        left: -50px;
-        justify-content: center;
-        align-items: center;
-    }
+
     
 }
